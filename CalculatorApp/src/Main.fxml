@@ -101,7 +101,7 @@
                   <Font size="18.0" />
                </font>
             </Button>
-            <Button mnemonicParsing="false" onAction="#processFormulas" prefWidth="50.0" text="SR">
+            <Button mnemonicParsing="false" onAction="#processFormulas" prefWidth="50.0" text="PR">
                <font>
                   <Font size="18.0" />
                </font>
